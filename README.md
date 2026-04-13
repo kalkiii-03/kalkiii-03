@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 Just a newbie | exploring new techs | love to build new things
 
 
